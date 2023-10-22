@@ -1,0 +1,15 @@
+body{
+    justify-content: center;
+    padding: 0%;
+    margin: auto;
+}
+legend{
+    font-size: large;
+    font-weight: 100;
+}
+header,
+h2,
+h4{
+    font-weight: 400;
+    font-colour: rgb(58, 30, 30);
+}
